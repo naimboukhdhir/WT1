@@ -1,7 +1,14 @@
+
+/**
+ * Comment 
+ * line 2 naim   
+ */
+
 package ma.enset;
 public class Test{
     public static void main (String[] args){
-        System.out.println("Hello");
+        String message ="HELLO";
+        System.out.println(message);
     }
 
     
